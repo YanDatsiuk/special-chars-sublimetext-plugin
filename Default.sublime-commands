@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Special chars: Escape angle brackets",
+    "command": "escape_angle_brackets"
+  }
+]
